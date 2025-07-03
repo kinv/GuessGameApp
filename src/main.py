@@ -74,7 +74,7 @@ def main(page: ft.Page):
                 ft.Text("• Guess a number between 1 and 100", size=14),
                 #ft.Text("• You have 7 attempts to find it", size=14),
                 ft.Text("• I'll give you hints along the way", size=14),
-                ft.Text("• Good luck! 🍀", size=14, weight=ft.FontWeight.W_500),
+                ft.Text("• Good luck!! 🍀", size=14, weight=ft.FontWeight.W_500),
             ], spacing=5),
             padding=15
         ),
